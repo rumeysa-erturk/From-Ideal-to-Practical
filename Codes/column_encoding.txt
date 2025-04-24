@@ -1,0 +1,22 @@
+{'COSAP image from Docker': 0, 'Cloning COSAP repository from Github': 1}
+{'Linux': 0, 'Windows (WSL)': 1}
+{'16 GB': 0, '> 16 GB': 1}
+{'128-256 GB': 0, '256 - 512 GB': 1, '512 GB - 1 TB': 2}
+{'No': 0, 'Yes': 1}
+{'Yes': 0}
+{'No': 0, 'Yes': 1}
+{'No': 0, 'Yes': 1}
+{'2- 4 hours': 0, '8-16 hours': 1, '< 2 hours': 2, '> 16 hours': 3}
+{'No': 0, 'Yes': 1}
+{'4-8 hours': 0, '8-16 hours': 1, '< 2 hours': 2, '> 16 hours': 3}
+{'4-8 hours': 0, '8-16 hours': 1, '< 2 hours': 2, '> 16 hours': 3}
+{'2- 4 hours': 0, '4-8 hours': 1, '8-16 hours': 2, '> 16 hours': 3}
+{'2- 4 hours': 0, '4-8 hours': 1, '8-16 hours': 2, '< 2 hours': 3, '> 16 hours': 4}
+{'2- 4 hours': 0, '4-8 hours': 1, '< 2 hours': 2, '> 16 hours': 3}
+{'2- 4 hours': 0, '4-8 hours': 1, '8-16 hours': 2, '< 2 hours': 3}
+{'2- 4 hours': 0, '4-8 hours': 1, '< 2 hours': 2}
+{'2- 4 hours': 0, '4-8 hours': 1, '8-16 hours': 2, '< 2 hours': 3}
+{'2- 4 hours': 0, '4-8 hours': 1, '8-16 hours': 2, '> 16 hours': 3}
+{'2- 4 hours': 0, '4-8 hours': 1, '8-16 hours': 2}
+{'2- 4 hours': 0, '4-8 hours': 1, '< 2 hours': 2}
+{'Analysis': 0, 'Downloading the data': 1, 'Installation': 2, 'Mapping': 3, 'Variant Calling': 4}
